@@ -1,7 +1,6 @@
 package com.kodilla.oneToMany.model;
 
 import jakarta.persistence.*;
-import lombok.Data;
 import java.util.*;
 
 @Entity
